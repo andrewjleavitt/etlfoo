@@ -1,0 +1,6 @@
+source MavenlinkProjectStatusUpdatesSource
+
+transform AddNetsuiteJobIdTransform
+transform SetNetsuiteCustomStatusFieldTransform
+
+destination NetsuiteStatusUpdateEtlDestination

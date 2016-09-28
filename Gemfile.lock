@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    kiba (0.6.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  kiba
